@@ -1,7 +1,12 @@
 {
   "enabled": true,
   "message": "",
-  "allowed": [""],
+  "allowed": ["IMR-ARKF-HDJL"],
   "blocked": [],
-  "blocked_message": "আপনার একসেস চালু হয়নি। পপআপ থেকে YOUR ID কপি করে আমাকে Telegram-এ পাঠান"
+  "blocked_message": "✰ আপনার একসেস চালু নেই যোগাযোগ করুন: নিচের ⇩ Telegram বাটন চাপুন.",
+  "links": {
+    "tiktok": "https://www.tiktok.com/@md_imran_0132",
+    "telegram": "https://t.me/আপনার_চ্যানেল",
+    "tutorial": "https://youtube.com/আপনার_ভিডিও"
+  }
 }
