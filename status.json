@@ -3,9 +3,9 @@
   "mode": "allowlist",
   "message": "",
   "allowed": [
-    "IMR-X6TL-R7TN"
-    { "id": "", "until": "2027-12-31" }],
-  "blocked": [""],
+    { "id": "IMR-X6TL-R7TN", "until": "2027-12-31" }
+  ],
+  "blocked": [],
   "blocked_message": "✰ আপনার মেথড চালু নেই যোগাযোগ করুন: নিচের ⇩ Telegram বাটন চাপুন.",
   "links": {
     "tiktok": "https://www.tiktok.com/@md_imran_0132",
